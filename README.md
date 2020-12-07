@@ -1,10 +1,9 @@
 # CRUD_Javascript_Ajax_Php
- Mediante el uso de PHP vamos a obtener los datos de la base de datos MySQL y mostrar en el Bootstrap DataTable. Luego, usando Ajax y jQuery vamos a editar, actualizar o eliminar los datos de la base de datos MySQL.
-
+ 
   CREATE BD
 
-   Database: `inline_edit`
---
+   Database: `[name_bd]`
+
  
 -- --------------------------------------------------------
 

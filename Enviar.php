@@ -1,5 +1,5 @@
 <?php
-//DB Connection
+// Connecion a la base de datos
 include 'conn.php';
  
 $column = ["id", "emp_name", "emp_designation", "gender", "emp_contact"];

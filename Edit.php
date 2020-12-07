@@ -1,5 +1,5 @@
 <?php
-//DB Connection
+//Coneción de la base de datos
 include 'conn.php';
  
 if ($_POST['action'] == 'edit') {
